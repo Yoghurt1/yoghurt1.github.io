@@ -1,0 +1,16 @@
+2017-07-17 10:53:01.196510 - DEBUG --> Gravity_Flow::cron() Starting cron. 
+2017-07-17 10:53:01.196938 - DEBUG --> Gravity_Flow::maybe_process_queued_entries(): starting 
+2017-07-17 10:53:01.263740 - DEBUG --> Gravity_Flow::maybe_process_expiration_and_reminders(): starting 
+2017-07-17 10:53:01.264158 - DEBUG --> Gravity_Flow::maybe_process_expiration_and_reminders(): workflow form IDs: Array
+(
+)
+ 
+2017-07-17 10:53:01.264446 - DEBUG --> Gravity_Flow::cron() Finished cron. 
+2017-07-17 11:08:02.220714 - DEBUG --> Gravity_Flow::cron() Starting cron. 
+2017-07-17 11:08:02.221131 - DEBUG --> Gravity_Flow::maybe_process_queued_entries(): starting 
+2017-07-17 11:08:02.287022 - DEBUG --> Gravity_Flow::maybe_process_expiration_and_reminders(): starting 
+2017-07-17 11:08:02.287286 - DEBUG --> Gravity_Flow::maybe_process_expiration_and_reminders(): workflow form IDs: Array
+(
+)
+ 
+2017-07-17 11:08:02.287445 - DEBUG --> Gravity_Flow::cron() Finished cron. 

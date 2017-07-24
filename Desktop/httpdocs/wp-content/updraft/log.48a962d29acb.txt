@@ -1,0 +1,337 @@
+0000.001 (0) Opened log file at time: Mon, 10 Jul 2017 11:31:14 +0000 on https://localhost.people1st.co.uk
+0000.009 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.4 WP: 4.8 PHP: 5.6.30 (fpm-fcgi, Linux internet.people1st.co.uk 3.10.0-514.26.2.el7.x86_64 #1 SMP Tue Jul 4 15:04:05 UTC 2017 x86_64) MySQL: 5.5.52 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 8.7M | 9M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.017 (0) Free space on disk containing Updraft's temporary directory: 44325.9 MB
+0000.027 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB: 1 (schedule: daily)
+0000.042 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.083 (0) Set semaphore last lock (fd) time to 2017-07-10 11:31:15
+0000.091 (0) Semaphore lock (fd) complete
+0000.116 (0) Backup run: resumption=0, nonce=48a962d29acb, begun at=1499686274 (1s ago), job type=backup
+0000.141 (0) Scheduling a resumption (1) after 300 seconds (1499686575) in case this run gets aborted
+0000.168 (0) Checking if we have a zip executable available
+0000.183 (0) Creation of backups of directories: beginning
+0000.217 (0) Beginning creation of dump of plugins (split every: 25 MB)
+0004.278 (0) Total entities for the zip file: 568 directories, 3662 files (0 skipped as non-modified), 56.9 MB
+0004.325 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0004.472 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 100 files added (on-disk size: 105.3 KB)
+0004.544 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 200 files added (on-disk size: 105.3 KB)
+0004.625 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 300 files added (on-disk size: 105.3 KB)
+0004.710 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 400 files added (on-disk size: 105.3 KB)
+0004.804 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 500 files added (on-disk size: 105.3 KB)
+0004.814 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.6 MB, 3662 files batched, 501 (502) added so far); re-opening (prior size: 105.3 KB)
+0006.248 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 600 files added (on-disk size: 1362.1 KB)
+0006.433 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 700 files added (on-disk size: 1362.1 KB)
+0006.603 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 800 files added (on-disk size: 1362.1 KB)
+0006.697 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 900 files added (on-disk size: 1362.1 KB)
+0006.776 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 1000 files added (on-disk size: 1362.1 KB)
+0006.789 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.1 MB, 3662 files batched, 501 (1003) added so far); re-opening (prior size: 1362.1 KB)
+0007.843 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 1100 files added (on-disk size: 2815 KB)
+0007.946 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 1200 files added (on-disk size: 2815 KB)
+0008.191 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 1300 files added (on-disk size: 2815 KB)
+0008.333 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 1400 files added (on-disk size: 2815 KB)
+0008.421 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 1500 files added (on-disk size: 2815 KB)
+0008.429 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (15.5 MB, 3662 files batched, 501 (1504) added so far); re-opening (prior size: 2815 KB)
+0012.592 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 1600 files added (on-disk size: 7065.1 KB)
+0012.674 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 1700 files added (on-disk size: 7065.1 KB)
+0012.766 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 1800 files added (on-disk size: 7065.1 KB)
+0012.873 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 1900 files added (on-disk size: 7065.1 KB)
+0012.984 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 2000 files added (on-disk size: 7065.1 KB)
+0013.003 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6 MB, 3662 files batched, 501 (2005) added so far); re-opening (prior size: 7065.1 KB)
+0014.665 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 2100 files added (on-disk size: 9122.4 KB)
+0014.776 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 2200 files added (on-disk size: 9122.4 KB)
+0014.876 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 2300 files added (on-disk size: 9122.4 KB)
+0014.977 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 2400 files added (on-disk size: 9122.4 KB)
+0015.083 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 2500 files added (on-disk size: 9122.4 KB)
+0015.108 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.9 MB, 3662 files batched, 501 (2506) added so far); re-opening (prior size: 9122.4 KB)
+0017.093 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 2600 files added (on-disk size: 11258.6 KB)
+0017.205 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 2700 files added (on-disk size: 11258.6 KB)
+0017.304 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 2800 files added (on-disk size: 11258.6 KB)
+0017.436 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 2900 files added (on-disk size: 11258.6 KB)
+0017.572 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 3000 files added (on-disk size: 11258.6 KB)
+0017.593 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (16.6 MB, 3662 files batched, 501 (3007) added so far); re-opening (prior size: 11258.6 KB)
+0021.762 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 3100 files added (on-disk size: 16026.5 KB)
+0021.896 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 3200 files added (on-disk size: 16026.5 KB)
+0022.037 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 3300 files added (on-disk size: 16026.5 KB)
+0022.202 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 3400 files added (on-disk size: 16026.5 KB)
+0022.427 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 3500 files added (on-disk size: 16026.5 KB)
+0022.460 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.7 MB, 3662 files batched, 501 (3508) added so far); re-opening (prior size: 16026.5 KB)
+0023.365 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip.tmp: 3600 files added (on-disk size: 16703.4 KB)
+0024.652 (0) Created plugins zip (0) - 17791.9 KB in 24.4 s (728.7 KB/s) (sha1: 2a87ab556afb7d71dcc0ae01f41057d04125a712, sha256: ac6e0a1c2ee68a4a87fe9a5c8b4668d46fe3f937e571981e68cb633cc7941c77)
+0024.668 (0) Beginning creation of dump of themes (split every: 25 MB)
+0024.807 (0) Total entities for the zip file: 24 directories, 144 files (0 skipped as non-modified), 2.9 MB
+0024.927 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0025.643 (0) Created themes zip (0) - 2244.1 KB in 1 s (2353.5 KB/s) (sha1: ee4fe4e84ce1b99d866a0fc5e5603c8682117169, sha256: 9ba0f8ecc5b9c51518fadb727d5e75b7c3d0a8a56d979e9f1a8ebd72197e3010)
+0025.668 (0) Exclusion option setting (uploads): 
+0025.676 (0) Looking for candidates to back up in: /var/www/vhosts/localhost.people1st.co.uk/httpdocs/wp-content/uploads
+0025.693 (0) finding files: 2017: adding to list (1)
+0025.701 (0) finding files: avatars: adding to list (2)
+0025.709 (0) finding files: buddypress: adding to list (3)
+0025.718 (0) Beginning creation of dump of uploads (split every: 25 MB)
+0026.007 (0) Total entities for the zip file: 125 directories, 315 files (0 skipped as non-modified), 8.9 MB
+0026.068 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0026.126 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0026.186 (0) Zip: backup_2017-07-10-1131_People_1st_48a962d29acb-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0027.849 (0) Created uploads zip (0) - 7577.9 KB in 2.1 s (3575.7 KB/s) (sha1: 432fb3c74ca5bb7bd174e184422878edb30346a3, sha256: c8671ff6fb95a27f05fdfa43cbd5d877e1f910ce1acdf997a6f140c1ae18d44a)
+0027.874 (0) Beginning backup of other directories found in the content directory (index: 0)
+0027.882 (0) Exclusion option setting (others): 
+0027.899 (0) Looking for candidates to back up in: /var/www/vhosts/localhost.people1st.co.uk/httpdocs/wp-content
+0027.908 (0) finding files: themes: skipping: this is the themes directory
+0027.916 (0) finding files: plugins: skipping: this is the plugins directory
+0027.924 (0) finding files: uploads: skipping: this is the uploads directory
+0027.932 (0) finding files: upgrade: adding to list (1)
+0027.941 (0) finding files: updraft: skipping: this is the updraft directory
+0027.949 (0) finding files: plugins-old: adding to list (2)
+0027.957 (0) finding files: themes-old: adding to list (3)
+0027.966 (0) finding files: uploads-old: adding to list (4)
+0027.982 (0) finding files: index.php-old: adding to list (5)
+0027.991 (0) finding files: index.php: adding to list (6)
+0028.019 (0) Total entities for the zip file: 4 directories, 2 files (0 skipped as non-modified), 0 MB
+0028.074 (0) Created others zip (0) - 0.7 KB in 0.1 s (9.2 KB/s) (sha1: 380c192de6b6747a2b60d70d187e0a589eab1407, sha256: f16ed8109f920955f69273a747640c20ca5091a836b19e0547a4242108c93e53)
+0028.141 (0) Saving backup status to database (elements: 8)
+0028.174 (0) Beginning creation of database dump (WordPress DB)
+0028.268 (0) Table 5gx0Q_options: Total expected rows (approximate): 757
+0028.383 (0) Table 5gx0Q_options: Total rows added: 828 in 0.10 seconds
+0028.392 (0) Table 5gx0Q_options: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_options.table.gz - 143.4 KB)
+0028.442 (0) Table 5gx0Q_site: Total expected rows (approximate): 1
+0028.452 (0) Table 5gx0Q_site: Total rows added: 1 in 0.00 seconds
+0028.458 (0) Table 5gx0Q_site: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_site.table.gz - 0.4 KB)
+0028.500 (0) Table 5gx0Q_blogs: Total expected rows (approximate): 1
+0028.510 (0) Table 5gx0Q_blogs: Total rows added: 1 in 0.00 seconds
+0028.516 (0) Table 5gx0Q_blogs: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_blogs.table.gz - 0.5 KB)
+0028.559 (0) Table 5gx0Q_users: Total expected rows (approximate): 159
+0028.582 (0) Table 5gx0Q_users: Total rows added: 134 in 0.02 seconds
+0028.592 (0) Table 5gx0Q_users: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_users.table.gz - 7.7 KB)
+0028.687 (0) Table 5gx0Q_usermeta: Total expected rows (approximate): 4089
+0028.860 (0) Table 5gx0Q_usermeta: Total rows added: 3751 in 0.16 seconds
+0028.875 (0) Table 5gx0Q_usermeta: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_usermeta.table.gz - 32.5 KB)
+0028.917 (0) Table 5gx0Q_blog_versions: Total expected rows (approximate): 0
+0028.926 (0) Table 5gx0Q_blog_versions: Total rows added: 0 in 0.00 seconds
+0028.933 (0) Table 5gx0Q_blog_versions: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_blog_versions.table.gz - 0.3 KB)
+0028.975 (0) Table 5gx0Q_commentmeta: Total expected rows (approximate): 0
+0028.985 (0) Table 5gx0Q_commentmeta: Total rows added: 0 in 0.00 seconds
+0028.991 (0) Table 5gx0Q_commentmeta: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_commentmeta.table.gz - 0.4 KB)
+0029.026 (0) Table 5gx0Q_comments: Total expected rows (approximate): 0
+0029.035 (0) Table 5gx0Q_comments: Total rows added: 0 in 0.00 seconds
+0029.042 (0) Table 5gx0Q_comments: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_comments.table.gz - 0.5 KB)
+0029.084 (0) Table 5gx0Q_links: Total expected rows (approximate): 0
+0029.094 (0) Table 5gx0Q_links: Total rows added: 0 in 0.00 seconds
+0029.108 (0) Table 5gx0Q_links: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_links.table.gz - 0.4 KB)
+0029.142 (0) Table 5gx0Q_postmeta: Total expected rows (approximate): 106
+0029.156 (0) Table 5gx0Q_postmeta: Total rows added: 88 in 0.01 seconds
+0029.167 (0) Table 5gx0Q_postmeta: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_postmeta.table.gz - 2.3 KB)
+0029.201 (0) Table 5gx0Q_posts: Total expected rows (approximate): 65
+0029.233 (0) Table 5gx0Q_posts: Total rows added: 67 in 0.02 seconds
+0029.242 (0) Table 5gx0Q_posts: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_posts.table.gz - 6.2 KB)
+0029.284 (0) Table 5gx0Q_registration_log: Total expected rows (approximate): 0
+0029.302 (0) Table 5gx0Q_registration_log: Total rows added: 0 in 0.00 seconds
+0029.308 (0) Table 5gx0Q_registration_log: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_registration_log.table.gz - 0.4 KB)
+0029.359 (0) Table 5gx0Q_signups: Total expected rows (approximate): 0
+0029.386 (0) Table 5gx0Q_signups: Total rows added: 0 in 0.00 seconds
+0029.400 (0) Table 5gx0Q_signups: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_signups.table.gz - 0.5 KB)
+0029.443 (0) Table 5gx0Q_sitemeta: Total expected rows (approximate): 70
+0029.463 (0) Table 5gx0Q_sitemeta: Total rows added: 154 in 0.01 seconds
+0029.476 (0) Table 5gx0Q_sitemeta: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_sitemeta.table.gz - 14.2 KB)
+0029.517 (0) Table 5gx0Q_term_relationships: Total expected rows (approximate): 16
+0029.528 (0) Table 5gx0Q_term_relationships: Total rows added: 16 in 0.00 seconds
+0029.534 (0) Table 5gx0Q_term_relationships: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_term_relationships.table.gz - 0.4 KB)
+0029.576 (0) Table 5gx0Q_term_taxonomy: Total expected rows (approximate): 18
+0029.587 (0) Table 5gx0Q_term_taxonomy: Total rows added: 18 in 0.00 seconds
+0029.617 (0) Table 5gx0Q_term_taxonomy: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_term_taxonomy.table.gz - 0.8 KB)
+0029.659 (0) Table 5gx0Q_termmeta: Total expected rows (approximate): 0
+0029.669 (0) Table 5gx0Q_termmeta: Total rows added: 0 in 0.00 seconds
+0029.684 (0) Table 5gx0Q_termmeta: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_termmeta.table.gz - 0.4 KB)
+0029.726 (0) Table 5gx0Q_terms: Total expected rows (approximate): 18
+0029.745 (0) Table 5gx0Q_terms: Total rows added: 18 in 0.00 seconds
+0029.759 (0) Table 5gx0Q_terms: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_terms.table.gz - 0.7 KB)
+0029.802 (0) Table 5gx0Q_booking: Total expected rows (approximate): 0
+0029.812 (0) Table 5gx0Q_booking: Total rows added: 0 in 0.00 seconds
+0029.826 (0) Table 5gx0Q_booking: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_booking.table.gz - 0.4 KB)
+0029.869 (0) Table 5gx0Q_bookingdates: Total expected rows (approximate): 0
+0029.887 (0) Table 5gx0Q_bookingdates: Total rows added: 0 in 0.00 seconds
+0029.901 (0) Table 5gx0Q_bookingdates: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bookingdates.table.gz - 0.3 KB)
+0029.945 (0) Table 5gx0Q_bp_activity: Total expected rows (approximate): 295
+0030.024 (0) Table 5gx0Q_bp_activity: Total rows added: 262 in 0.06 seconds
+0030.035 (0) Table 5gx0Q_bp_activity: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bp_activity.table.gz - 7.4 KB)
+0030.094 (0) Table 5gx0Q_bp_activity_meta: Total expected rows (approximate): 0
+0030.104 (0) Table 5gx0Q_bp_activity_meta: Total rows added: 0 in 0.00 seconds
+0030.118 (0) Table 5gx0Q_bp_activity_meta: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bp_activity_meta.table.gz - 0.4 KB)
+0030.169 (0) Table 5gx0Q_bp_messages_messages: Total expected rows (approximate): 2
+0030.179 (0) Table 5gx0Q_bp_messages_messages: Total rows added: 2 in 0.00 seconds
+0030.193 (0) Table 5gx0Q_bp_messages_messages: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bp_messages_messages.table.gz - 0.5 KB)
+0030.243 (0) Table 5gx0Q_bp_messages_meta: Total expected rows (approximate): 0
+0030.269 (0) Table 5gx0Q_bp_messages_meta: Total rows added: 0 in 0.00 seconds
+0030.276 (0) Table 5gx0Q_bp_messages_meta: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bp_messages_meta.table.gz - 0.4 KB)
+0030.319 (0) Table 5gx0Q_bp_messages_notices: Total expected rows (approximate): 0
+0030.337 (0) Table 5gx0Q_bp_messages_notices: Total rows added: 0 in 0.00 seconds
+0030.352 (0) Table 5gx0Q_bp_messages_notices: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bp_messages_notices.table.gz - 0.4 KB)
+0030.403 (0) Table 5gx0Q_bp_messages_recipients: Total expected rows (approximate): 2
+0030.413 (0) Table 5gx0Q_bp_messages_recipients: Total rows added: 2 in 0.00 seconds
+0030.427 (0) Table 5gx0Q_bp_messages_recipients: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bp_messages_recipients.table.gz - 0.4 KB)
+0030.479 (0) Table 5gx0Q_bp_notifications: Total expected rows (approximate): 1
+0030.766 (0) Table 5gx0Q_bp_notifications: Total rows added: 1 in 0.00 seconds
+0030.786 (0) Table 5gx0Q_bp_notifications: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bp_notifications.table.gz - 0.5 KB)
+0030.911 (0) Table 5gx0Q_bp_notifications_meta: Total expected rows (approximate): 0
+0030.932 (0) Table 5gx0Q_bp_notifications_meta: Total rows added: 0 in 0.00 seconds
+0030.977 (0) Table 5gx0Q_bp_notifications_meta: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bp_notifications_meta.table.gz - 0.4 KB)
+0031.028 (0) Table 5gx0Q_bp_xprofile_data: Total expected rows (approximate): 495
+0031.052 (0) Table 5gx0Q_bp_xprofile_data: Total rows added: 368 in 0.02 seconds
+0031.061 (0) Table 5gx0Q_bp_xprofile_data: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bp_xprofile_data.table.gz - 5.5 KB)
+0031.103 (0) Table 5gx0Q_bp_xprofile_fields: Total expected rows (approximate): 3
+0031.121 (0) Table 5gx0Q_bp_xprofile_fields: Total rows added: 3 in 0.00 seconds
+0031.127 (0) Table 5gx0Q_bp_xprofile_fields: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bp_xprofile_fields.table.gz - 0.6 KB)
+0031.169 (0) Table 5gx0Q_bp_xprofile_groups: Total expected rows (approximate): 1
+0031.179 (0) Table 5gx0Q_bp_xprofile_groups: Total rows added: 1 in 0.00 seconds
+0031.186 (0) Table 5gx0Q_bp_xprofile_groups: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bp_xprofile_groups.table.gz - 0.4 KB)
+0031.228 (0) Table 5gx0Q_bp_xprofile_meta: Total expected rows (approximate): 6
+0031.238 (0) Table 5gx0Q_bp_xprofile_meta: Total rows added: 6 in 0.00 seconds
+0031.244 (0) Table 5gx0Q_bp_xprofile_meta: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bp_xprofile_meta.table.gz - 0.5 KB)
+0031.278 (0) Table 5gx0Q_em_bookings: Total expected rows (approximate): 0
+0031.296 (0) Table 5gx0Q_em_bookings: Total rows added: 0 in 0.00 seconds
+0031.302 (0) Table 5gx0Q_em_bookings: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_em_bookings.table.gz - 0.5 KB)
+0031.345 (0) Table 5gx0Q_em_events: Total expected rows (approximate): 0
+0031.355 (0) Table 5gx0Q_em_events: Total rows added: 0 in 0.00 seconds
+0031.361 (0) Table 5gx0Q_em_events: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_em_events.table.gz - 0.6 KB)
+0031.395 (0) Table 5gx0Q_em_locations: Total expected rows (approximate): 0
+0031.405 (0) Table 5gx0Q_em_locations: Total rows added: 0 in 0.00 seconds
+0031.411 (0) Table 5gx0Q_em_locations: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_em_locations.table.gz - 0.5 KB)
+0031.453 (0) Table 5gx0Q_em_meta: Total expected rows (approximate): 0
+0031.463 (0) Table 5gx0Q_em_meta: Total rows added: 0 in 0.00 seconds
+0031.469 (0) Table 5gx0Q_em_meta: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_em_meta.table.gz - 0.4 KB)
+0031.511 (0) Table 5gx0Q_em_tickets: Total expected rows (approximate): 0
+0031.530 (0) Table 5gx0Q_em_tickets: Total rows added: 0 in 0.00 seconds
+0031.536 (0) Table 5gx0Q_em_tickets: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_em_tickets.table.gz - 0.4 KB)
+0031.578 (0) Table 5gx0Q_em_tickets_bookings: Total expected rows (approximate): 0
+0031.613 (0) Table 5gx0Q_em_tickets_bookings: Total rows added: 0 in 0.00 seconds
+0031.619 (0) Table 5gx0Q_em_tickets_bookings: finishing file (backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_em_tickets_bookings.table.gz - 0.4 KB)
+0031.644 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_blog_versions
+0031.652 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_blogs
+0031.669 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_booking
+0031.677 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_bookingdates
+0031.694 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_bp_activity
+0031.702 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_bp_activity_meta
+0031.719 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_bp_messages_messages
+0031.727 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_bp_messages_meta
+0031.736 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_bp_messages_notices
+0031.744 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_bp_messages_recipients
+0031.752 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_bp_notifications
+0031.769 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_bp_notifications_meta
+0031.777 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_bp_xprofile_data
+0031.786 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_bp_xprofile_fields
+0031.794 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_bp_xprofile_groups
+0031.802 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_bp_xprofile_meta
+0031.819 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_commentmeta
+0031.827 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_comments
+0031.836 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_em_bookings
+0031.844 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_em_events
+0031.852 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_em_locations
+0031.861 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_em_meta
+0031.869 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_em_tickets
+0031.877 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_em_tickets_bookings
+0031.886 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_links
+0031.894 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_options
+0031.911 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_postmeta
+0031.919 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_posts
+0031.927 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_registration_log
+0031.936 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_signups
+0031.952 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_site
+0031.961 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_sitemeta
+0031.977 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_term_relationships
+0031.994 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_term_taxonomy
+0032.002 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_termmeta
+0032.011 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_terms
+0032.027 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_usermeta
+0032.036 (0) Skipping table (lacks our prefix (5gx0Q_)): z0GxH16n_users
+0032.054 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_options.table.gz (1/76): adding to final database dump
+0032.132 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_site.table.gz (2/76): adding to final database dump
+0032.161 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_blogs.table.gz (3/76): adding to final database dump
+0032.169 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_users.table.gz (4/76): adding to final database dump
+0032.181 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_usermeta.table.gz (5/76): adding to final database dump
+0032.252 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_blog_versions.table.gz (6/76): adding to final database dump
+0032.269 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_commentmeta.table.gz (7/76): adding to final database dump
+0032.278 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_comments.table.gz (8/76): adding to final database dump
+0032.295 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_links.table.gz (9/76): adding to final database dump
+0032.304 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_postmeta.table.gz (10/76): adding to final database dump
+0032.323 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_posts.table.gz (11/76): adding to final database dump
+0032.342 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_registration_log.table.gz (12/76): adding to final database dump
+0032.353 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_signups.table.gz (13/76): adding to final database dump
+0032.370 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_sitemeta.table.gz (14/76): adding to final database dump
+0032.390 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_term_relationships.table.gz (15/76): adding to final database dump
+0032.403 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_term_taxonomy.table.gz (16/76): adding to final database dump
+0032.412 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_termmeta.table.gz (17/76): adding to final database dump
+0032.429 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_terms.table.gz (18/76): adding to final database dump
+0032.437 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_booking.table.gz (19/76): adding to final database dump
+0032.445 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bookingdates.table.gz (20/76): adding to final database dump
+0032.461 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bp_activity.table.gz (21/76): adding to final database dump
+0032.482 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bp_activity_meta.table.gz (22/76): adding to final database dump
+0032.536 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bp_messages_messages.table.gz (23/76): adding to final database dump
+0032.571 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bp_messages_meta.table.gz (24/76): adding to final database dump
+0032.578 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bp_messages_notices.table.gz (25/76): adding to final database dump
+0032.587 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bp_messages_recipients.table.gz (26/76): adding to final database dump
+0032.595 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bp_notifications.table.gz (27/76): adding to final database dump
+0032.603 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bp_notifications_meta.table.gz (28/76): adding to final database dump
+0032.620 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bp_xprofile_data.table.gz (29/76): adding to final database dump
+0032.638 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bp_xprofile_fields.table.gz (30/76): adding to final database dump
+0032.645 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bp_xprofile_groups.table.gz (31/76): adding to final database dump
+0032.653 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_bp_xprofile_meta.table.gz (32/76): adding to final database dump
+0032.661 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_em_bookings.table.gz (33/76): adding to final database dump
+0032.670 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_em_events.table.gz (34/76): adding to final database dump
+0032.680 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_em_locations.table.gz (35/76): adding to final database dump
+0032.695 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_em_meta.table.gz (36/76): adding to final database dump
+0032.703 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_em_tickets.table.gz (37/76): adding to final database dump
+0032.711 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db-table-5gx0Q_em_tickets_bookings.table.gz (38/76): adding to final database dump
+0032.719 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db.gz: finished writing out complete database file (200 KB)
+0033.002 (0) Total database tables backed up: 38 (backup_2017-07-10-1131_People_1st_48a962d29acb-db.gz, size: 228633, sha256)
+0033.060 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0033.069 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0033.085 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0033.094 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-others.zip: others: This file has not yet been successfully uploaded: will queue
+0033.102 (0) backup_2017-07-10-1131_People_1st_48a962d29acb-db.gz: db: This file has not yet been successfully uploaded: will queue
+0033.110 (0) Saving backup history. Total backup size: 27.2 MB
+0033.135 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0033.177 (0) Cloud backup selection (1/1): none (last)
+0033.185 (0) No remote despatch: user chose no remote backup service
+0033.210 (0) Recording as successfully uploaded: backup_2017-07-10-1131_People_1st_48a962d29acb-plugins.zip (cb279f95a5335e2bba61014bb7ba8b3e)
+0033.277 (0) Recording as successfully uploaded: backup_2017-07-10-1131_People_1st_48a962d29acb-themes.zip (f5d0e7f4f94c483fd0754a4af53e0af3)
+0033.344 (0) Recording as successfully uploaded: backup_2017-07-10-1131_People_1st_48a962d29acb-uploads.zip (9434643c827125c66b1f4050614cc928)
+0033.419 (0) Recording as successfully uploaded: backup_2017-07-10-1131_People_1st_48a962d29acb-others.zip (6f3e0433685e088898f7df72f0fcee4e)
+0033.478 (0) Recording as successfully uploaded: backup_2017-07-10-1131_People_1st_48a962d29acb-db.gz (be4a980327c75fe6f6a6b641eec3a507)
+0033.536 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=1, retain_db=1
+0033.545 (0) Number of backup sets in history: 3; groups (db): 1
+0033.561 (0) Examining (for databases) backup set with group_id=0, nonce=48a962d29acb, datestamp=1499686274 (Jul 10 2017 11:31:14)
+0033.570 (0) This backup set is the backup set just made, so will not be deleted.
+0033.578 (0) Examining (for databases) backup set with group_id=0, nonce=a0cc9e37569b, datestamp=1499686175 (Jul 10 2017 11:29:35)
+0033.586 (0) 1499686175: db: this set includes a database (backup_2017-07-10-1129_People_1st_a0cc9e37569b-db.gz); db count is now 1
+0033.594 (0) 1499686175: db: over retain limit (1); will delete this database
+0033.603 (0) Delete file: backup_2017-07-10-1129_People_1st_a0cc9e37569b-db.gz, service=none
+0033.611 (0) Deleting local copy (backup_2017-07-10-1129_People_1st_a0cc9e37569b-db.gz)
+0033.636 (0) This backup set is now empty; will remove from history
+0033.645 (0) Deleting log file (log.a0cc9e37569b.txt)
+0033.653 (0) Examining (for databases) backup set with group_id=0, nonce=cc432c88d2bd, datestamp=1499424480 (Jul 07 2017 10:48:00)
+0033.670 (0) Number of backup sets in history: 2; groups (files): 1
+0033.678 (0) Examining (for files) backup set with nonce=48a962d29acb, datestamp=1499686274 (Jul 10 2017 11:31:14)
+0033.686 (0) This backup set is the backup set just made, so will not be deleted.
+0033.695 (0) This backup set is the backup set just made, so will not be deleted.
+0033.695 (0) This backup set is the backup set just made, so will not be deleted.
+0033.695 (0) This backup set is the backup set just made, so will not be deleted.
+0033.696 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0033.703 (0) Examining (for files) backup set with nonce=cc432c88d2bd, datestamp=1499424480 (Jul 07 2017 10:48:00)
+0033.711 (0) plugins: over retain limit (1); will delete this file entity
+0033.720 (0) themes: over retain limit (1); will delete this file entity
+0033.728 (0) uploads: over retain limit (1); will delete this file entity
+0033.736 (0) others: over retain limit (1); will delete this file entity
+0033.744 (0) Delete file: backup_2017-07-07-1048_People_1st_cc432c88d2bd-plugins.zip, service=none
+0033.761 (0) Deleting local copy (backup_2017-07-07-1048_People_1st_cc432c88d2bd-plugins.zip)
+0033.770 (0) Delete file: backup_2017-07-07-1048_People_1st_cc432c88d2bd-themes.zip, service=none
+0033.778 (0) Deleting local copy (backup_2017-07-07-1048_People_1st_cc432c88d2bd-themes.zip)
+0033.786 (0) Delete file: backup_2017-07-07-1048_People_1st_cc432c88d2bd-uploads.zip, service=none
+0033.795 (0) Deleting local copy (backup_2017-07-07-1048_People_1st_cc432c88d2bd-uploads.zip)
+0033.811 (0) Delete file: backup_2017-07-07-1048_People_1st_cc432c88d2bd-others.zip, service=none
+0033.820 (0) Deleting local copy (backup_2017-07-07-1048_People_1st_cc432c88d2bd-others.zip)
+0033.836 (0) This backup set is now empty; will remove from history
+0033.853 (0) Deleting log file (log.cc432c88d2bd.txt)
+0033.861 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0033.903 (0) Resume backup (48a962d29acb, 0): finish run
+0033.936 (0) Decremented the semaphore (fd) by 1
+0033.952 (0) Semaphore (fd) unlocked
+0033.961 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0034.012 (0) No email will/can be sent - the user has not configured an email address.
+0034.028 (0) The backup apparently succeeded and is now complete
