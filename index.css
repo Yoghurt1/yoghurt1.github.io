@@ -1,0 +1,38 @@
+#img1>div:nth-of-type(1) {
+    background: url("images/dental-clinic-1.jpg") 50% -200px no-repeat fixed;
+    margin: 0;
+    height: 700px;
+    position: absolute;
+    width:100%;
+    top:0;left:0;
+}
+
+#img2>div:nth-of-type(1) {
+    background: url("images/dental-care.jpg") 50% -1500px no-repeat fixed;
+    margin: 0;
+    height: 700px;
+    position: relative;
+    width:100%;
+    top:0;left:0;
+}
+
+section {
+    min-height: 0px;
+    position: relative;
+    width: 100% !important;
+    min-width: 1000px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+} 
+
+#index>h1 {
+    font-weight: 300;
+    font-style: italic;
+}
+
+#treatmentImg {
+    height: 96px;
+    width: 96px;
+}
+

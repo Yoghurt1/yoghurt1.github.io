@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Compiled and minified CSS -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/css/materialize.min.css">
+
+        <!-- jQuery CDN Import -->
+        <script src="https://code.jquery.com/jquery-2.1.4.min.js" integrity="sha256-8WqyJLuWKRBVhxXIL1jBDD7SDxU936oZkCnxQbWwJVw=" crossorigin="anonymous"></script>
+
+        <!-- Compiled and minified JavaScript -->
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js"></script>
+
+        <!-- Google Icons -->
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+        <!-- Local Script -->
+        <script type="text/javascript" src="index.js"></script>
+
+        <!-- Local CSS -->
+        <link rel="stylesheet" href="index.css">
+    
+        <title>Belfast Dental Practice</title>
+    </head>
+
+    <body>
+
+        <!-- Navbar -->
+        <nav>
+            <div class="nav-wrapper light-green">
+            <a href="index.html" class="brand-logo"><img src="/img/tooth.png" style="width: 64px; height: 64px"></a>
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+                <li><a href="contactUs.html">Contact Us</a></li>
+                <li><a href="aboutUs.html">About Us</a></li>
+                <li><a href="treatments.html">Treatments</a></li>
+                <li><a href="specialOffers.html">Special Offers</a></li>
+            </ul>
+            </div>
+        </nav>
+
+        <!-- Info text -->
+        <div class="container">
+            <h2>Contact Us!</h2>
+            <p>If you have any questions about any of the treatments that we offer, want to ask a question about the clinic itself,
+                or just want to leave us some feedback of any kind, feel free to let us know using the form below. We will try our 
+                 best to respond to you as soon as possible!<br>Thank you for choosing Jenny's Dental Practice.</p>
+            
+            <br>
+        </div><hr width="80%">
+            <br>
+
+
+        <!-- Form -->
+        <div class="container">
+            <div class="row">
+                <form class="col s12" action="#" method="post">
+                    <div class="row">
+                        <div class="input-field col s6">
+                            <i class="material-icons prefix">account_circle</i>
+                            <input id="name" type="text" class="validate">
+                            <label for="name">Full Name</label>
+                        </div>
+                        <div class="input-field col s6">
+                            <i class="material-icons prefix">info_outline</i>
+                            <input id="email" type="text" class="validate">
+                            <label for="email">Email address</label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="input-field col s6">
+                            <i class="material-icons prefix">phone</i>
+                            <input id="telephone" type="tel" class="validate">
+                            <label for="telephone">Phone number</label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="input-field col s12">
+                            <i class="material-icons prefix">question_answer</i>
+                            <textarea id="query" class="materialize-textarea"></textarea>
+                            <label for="query">Query</label>
+                        </div>
+                    </div>
+                    <button class="btn waves-effect waves-light light-blue accent-4" type="submit" name="action">Submit
+                        <i class="material-icons right">send</i></button>
+                </form>
+            </div>
+        </div>
+
+    </body>
+</html>
+                
